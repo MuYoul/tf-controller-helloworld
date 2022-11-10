@@ -15,7 +15,7 @@ metadata:
   name: helloworld-tf
 spec:
   path: ./terraform
-  approvePlan: "plan-main-b8e362c206"
+  approvePlan: "disable"
   interval: 1m
   sourceRef:
     kind: GitRepository
